@@ -1,0 +1,14 @@
+C:\Users\Ertuğrul-Eren\source\repos\kutuphaneProjesi\kutuphaneProjesi\bin\Debug\kutuphaneProjesi.exe.config
+C:\Users\Ertuğrul-Eren\source\repos\kutuphaneProjesi\kutuphaneProjesi\bin\Debug\kutuphaneProjesi.exe
+C:\Users\Ertuğrul-Eren\source\repos\kutuphaneProjesi\kutuphaneProjesi\bin\Debug\kutuphaneProjesi.pdb
+C:\Users\Ertuğrul-Eren\source\repos\kutuphaneProjesi\kutuphaneProjesi\obj\Debug\kutuphaneProjesi.csproj.AssemblyReference.cache
+C:\Users\Ertuğrul-Eren\source\repos\kutuphaneProjesi\kutuphaneProjesi\obj\Debug\kutuphaneProjesi.Properties.Resources.resources
+C:\Users\Ertuğrul-Eren\source\repos\kutuphaneProjesi\kutuphaneProjesi\obj\Debug\kutuphaneProjesi.csproj.GenerateResource.cache
+C:\Users\Ertuğrul-Eren\source\repos\kutuphaneProjesi\kutuphaneProjesi\obj\Debug\kutuphaneProjesi.csproj.CoreCompileInputs.cache
+C:\Users\Ertuğrul-Eren\source\repos\kutuphaneProjesi\kutuphaneProjesi\obj\Debug\kutuphaneProjesi.exe
+C:\Users\Ertuğrul-Eren\source\repos\kutuphaneProjesi\kutuphaneProjesi\obj\Debug\kutuphaneProjesi.pdb
+C:\Users\Ertuğrul-Eren\source\repos\kutuphaneProjesi\kutuphaneProjesi\obj\Debug\kutuphaneProjesi.anaSayfa.resources
+C:\Users\Ertuğrul-Eren\source\repos\kutuphaneProjesi\kutuphaneProjesi\obj\Debug\kutuphaneProjesi.formkitap.resources
+C:\Users\Ertuğrul-Eren\source\repos\kutuphaneProjesi\kutuphaneProjesi\obj\Debug\kutuphaneProjesi.formOdunckitap.resources
+C:\Users\Ertuğrul-Eren\source\repos\kutuphaneProjesi\kutuphaneProjesi\obj\Debug\kutuphaneProjesi.formOgrenci.resources
+C:\Users\Ertuğrul-Eren\source\repos\kutuphaneProjesi\kutuphaneProjesi\obj\Debug\kutuphaneProjesi.formTur.resources
